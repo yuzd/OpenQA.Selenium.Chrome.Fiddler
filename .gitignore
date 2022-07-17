@@ -1,0 +1,6 @@
+_ReSharper.Caches/
+.vs/
+ConsoleApp/bin/
+ConsoleApp/obj/
+OpenQA.Selenium.Chrome.Fiddler/obj/
+OpenQA.Selenium.Chrome.Fiddler/bin/
